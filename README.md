@@ -1,8 +1,8 @@
 # Proxy requester
 
-finding proxies from `gimmeproxy` api.\n
-the script iz really simple just for fun.\n
-u can chnaged it to make it more powerfull for yourself.\n
+finding proxies from `gimmeproxy` api.
+the script iz really simple just for fun.
+u can chnaged it to make it more powerfull for yourself.
 
 usage:
 
